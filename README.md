@@ -1,3 +1,33 @@
+# EfeChat
+  This project created by Alper Efe Şahin. I used React.js, Firebase, CHAT Engine Lib. and Icon lib. You can login with Facebook or Google. You can create new chat group, add new users to chat group, you can remove his/her, and you can delete the chat group easily. Also you can upload file like pdf or images etc.
+  
+  Here you can see some gifs via EfeChat:
+  
+  **Chat Screen:**
+  
+  ![gif1](https://user-images.githubusercontent.com/67283777/124601991-17fc1800-de71-11eb-8549-f233ce23ca71.gif)
+  
+  **Creating New Group:**
+  
+  ![gif2](https://user-images.githubusercontent.com/67283777/124602098-2ea26f00-de71-11eb-8338-93003fb01a41.gif)
+  
+  **Creating and Deleting the group:**
+  
+  ![gif3](https://user-images.githubusercontent.com/67283777/124602178-44179900-de71-11eb-9424-70b20d3ad976.gif)
+
+  **Typing property:**
+  
+  ![gif4](https://user-images.githubusercontent.com/67283777/124602332-68737580-de71-11eb-8ab1-703a3228c3c5.gif)
+
+  **Uploading image:**
+  
+  ![gif5](https://user-images.githubusercontent.com/67283777/124602373-71644700-de71-11eb-9a82-9d686f9a9f26.gif)
+  
+  **Profile page, and Logout process:**
+  
+  ![gif6](https://user-images.githubusercontent.com/67283777/124602410-7cb77280-de71-11eb-9fdc-b5716fab9b61.gif)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
